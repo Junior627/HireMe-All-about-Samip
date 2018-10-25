@@ -1,0 +1,22 @@
+body{
+    background-color:purple;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+p{
+    font-family:Mali;
+    color:gold;
+}
+li{
+    color:silver;
+}
+img{
+    height:200px;
+}
+a {
+    color:white;
+}
