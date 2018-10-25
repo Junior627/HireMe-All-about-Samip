@@ -1,1 +1,0 @@
-# HireMe-All-about-Samip
